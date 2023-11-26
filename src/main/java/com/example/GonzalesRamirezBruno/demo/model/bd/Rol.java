@@ -17,3 +17,4 @@ public class Rol {
     @Column(name = "nomrol")
     private String nomrol;
 }
+//ola
